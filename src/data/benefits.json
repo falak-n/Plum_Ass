@@ -1,0 +1,59 @@
+{
+  "Dental": [
+    {
+      "id": "dental-1",
+      "title": "Comprehensive Dental Insurance",
+      "coverage": "Up to $2,000 annually",
+      "description": "Covers preventive care, cleanings, fillings, and major procedures including root canals and crowns."
+    },
+    {
+      "id": "dental-2",
+      "title": "Emergency Dental Care",
+      "coverage": "24/7 coverage",
+      "description": "Immediate access to emergency dental services for urgent issues like severe pain or trauma."
+    }
+  ],
+  "Mental Health": [
+    {
+      "id": "mental-1",
+      "title": "Employee Assistance Program (EAP)",
+      "coverage": "6 sessions per year",
+      "description": "Free confidential counseling sessions with licensed therapists for stress, anxiety, and personal issues."
+    },
+    {
+      "id": "mental-2",
+      "title": "Mental Health Coverage",
+      "coverage": "80% coverage up to $5,000",
+      "description": "Comprehensive mental health benefits including therapy, psychiatry, and medication management."
+    }
+  ],
+  "Vision": [
+    {
+      "id": "vision-1",
+      "title": "Annual Eye Exam Coverage",
+      "coverage": "100% coverage",
+      "description": "Full coverage for annual comprehensive eye examinations and vision screenings."
+    },
+    {
+      "id": "vision-2",
+      "title": "Eyewear Allowance",
+      "coverage": "$200 every 2 years",
+      "description": "Allowance for prescription glasses, contact lenses, and frames from network providers."
+    }
+  ],
+  "OPD": [
+    {
+      "id": "opd-1",
+      "title": "Outpatient Department Coverage",
+      "coverage": "90% coverage",
+      "description": "Coverage for outpatient consultations, diagnostic tests, and minor procedures."
+    },
+    {
+      "id": "opd-2",
+      "title": "Telemedicine Services",
+      "coverage": "Unlimited consultations",
+      "description": "24/7 access to virtual consultations with licensed physicians for non-emergency health concerns."
+    }
+  ]
+}
+
