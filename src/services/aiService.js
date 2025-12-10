@@ -116,7 +116,7 @@ No additional text, just the 3 steps:`;
     if (steps.length === 3) {
       return steps;
     }
-
+// Fallback action plan
     // Fallback action plan
     return [
       'Contact your HR department or benefits administrator',

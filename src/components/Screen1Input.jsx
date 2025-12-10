@@ -7,6 +7,7 @@ export default function Screen1Input({ onSubmit }) {
     e.preventDefault();
     if (input.trim()) {
       onSubmit(input.trim());
+    
     }
   };
 

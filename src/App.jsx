@@ -5,6 +5,7 @@ import Screen3Benefits from './components/Screen3Benefits';
 import Screen4ActionPlan from './components/Screen4ActionPlan';
 
 function App() {
+  
   const [currentScreen, setCurrentScreen] = useState('input');
   const [userInput, setUserInput] = useState('');
   const [category, setCategory] = useState(null);
